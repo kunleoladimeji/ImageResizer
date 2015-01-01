@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ImageResizer/Default.aspx">
+    <Files>
+      <File FileName="ImageResizer/Default.aspx" Line="121" Column="121" />
+      <File FileName="ImageResizer/Default.aspx.cs" Line="1" Column="1" />
+      <File FileName="ImageResizer/UploadImage.aspx" Line="1" Column="1" />
+      <File FileName="ImageResizer/UploadImage.aspx.cs" Line="1" Column="1" />
+      <File FileName="ImageResizer/web.config" Line="1" Column="1" />
+      <File FileName="ImageResizer/css/mycss.css" Line="8" Column="8" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

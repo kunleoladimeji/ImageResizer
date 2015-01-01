@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<images>
+  <record num="2">
+    <caption>hgh</caption>
+    <originalImageURL>Images/HiRes/afrinic.jpg</originalImageURL>
+    <originalFileSize>26KB</originalFileSize>
+    <compressedImageURL>Images/LowRes/afrinic.jpg</compressedImageURL>
+    <compressedFileSize>7KB</compressedFileSize>
+  </record>
+  <record num="3">
+    <caption>Hello Dear</caption>
+    <originalImageURL>Images/HiRes/black-white-cool-wallpaper-abstract-picture-cool-wallpaper.jpg</originalImageURL>
+    <originalFileSize>1117KB</originalFileSize>
+    <compressedImageURL>Images/LowRes/black-white-cool-wallpaper-abstract-picture-cool-wallpaper.jpg</compressedImageURL>
+    <compressedFileSize>65KB</compressedFileSize>
+  </record>
+  <record num="4">
+    <caption>Doing alright. Thanks Padi</caption>
+    <originalImageURL>Images/HiRes/02415_intothefog_1280x800.jpg</originalImageURL>
+    <originalFileSize>654KB</originalFileSize>
+    <compressedImageURL>Images/LowRes/02415_intothefog_1280x800.jpg</compressedImageURL>
+    <compressedFileSize>35KB</compressedFileSize>
+  </record>
+  <record num="5">
+    <caption>Going out tonight!</caption>
+    <originalImageURL>Images/HiRes/Fox-on-snow_1920x1080.jpg</originalImageURL>
+    <originalFileSize>1123KB</originalFileSize>
+    <compressedImageURL>Images/LowRes/Fox-on-snow_1920x1080.jpg</compressedImageURL>
+    <compressedFileSize>56KB</compressedFileSize>
+  </record>
+  <record num="6">
+    <caption>Hello Dear</caption>
+    <originalImageURL>Images/HiRes/Lazerdesign Flyer.jpg</originalImageURL>
+    <originalFileSize>400KB</originalFileSize>
+    <compressedImageURL>Images/LowRes/Lazerdesign Flyer.jpg</compressedImageURL>
+    <compressedFileSize>97KB</compressedFileSize>
+  </record>
+</images>

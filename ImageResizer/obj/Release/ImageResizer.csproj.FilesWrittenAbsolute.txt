@@ -1,0 +1,5 @@
+/Users/abiadedosunmu/Projects/ImageResizer/ImageResizer/obj/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/abiadedosunmu/Projects/ImageResizer/ImageResizer/bin/ImageResizer.dll.mdb
+/Users/abiadedosunmu/Projects/ImageResizer/ImageResizer/bin/ImageResizer.dll
+/Users/abiadedosunmu/Projects/ImageResizer/ImageResizer/obj/Release/ImageResizer.dll
+/Users/abiadedosunmu/Projects/ImageResizer/ImageResizer/obj/Release/ImageResizer.dll.mdb
